@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"_app.js -> ../components/navbar":{"id":"_app.js -> ../components/navbar","files":[]}}
